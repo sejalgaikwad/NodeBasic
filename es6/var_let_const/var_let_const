@@ -1,0 +1,10 @@
+
+                     var                      let                  const
+
+functionScope        yes                      yes                   yes
+
+blockScope           no                       yes                   yes
+
+globalScope          yes                      no                    no
+
+reassigned           yes                      yes                   no

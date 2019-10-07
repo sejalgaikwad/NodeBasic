@@ -1,0 +1,18 @@
+{
+  "name": "practiceproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "async.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "events": "^3.0.0",
+    "mongoose": "^5.6.12",
+    "net": "^1.0.2",
+    "os": "^0.1.1"
+  }
+}
